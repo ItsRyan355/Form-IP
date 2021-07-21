@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+
+#form {
+    padding-inline: px;
+}
+
+body{
+    background-image: url(/african-traditional-maasai-warrior-kalimba-600w-1798501324.webp);
+    height: 100vh;
+    width: 100% 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
